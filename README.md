@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rakolotamogau
 - 👀 I’m interested in learning new ideas
 - 🌱 I’m currently learning at TUT doing informatics
-- 💞️ I’m looking to collaborate on system analysis activities
+- 💞️ I’m looking to collaborate on system analysis and System/Software testing activities
 - 📫 How to reach me on rakolotamogauk@gmail.com
 
 <!---
